@@ -9,7 +9,7 @@ The main goals are:
 - Build and evaluate a Linear Regression model  
 - Interpret model results and coefficients  
 - Remove one feature that did not improve the model
-
+  
 ---
 
 ## 📂 Dataset Description
